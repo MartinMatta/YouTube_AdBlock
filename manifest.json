@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "YouTube AdBlocker",
+  "description": "Skips YouTube Ads.",
+  "version": "1.0",
+  "icons": { "128": "icon128.png" },
+  "content_scripts": [
+    {
+      "matches": ["https://*.youtube.com/*"],
+      "js": ["ad_block.js"]
+    }
+  ]
+}
+
+// ICON
+// https://www.flaticon.com/authors/those-icons
+// https://www.flaticon.com/
