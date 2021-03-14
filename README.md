@@ -1,6 +1,9 @@
 # YouTube AdBlock
 
-## Install
+## Install extension locally
+
+
+Open <a href="chrome://extensions/">Extensions</a>
 
 ### Step 1
 Click on Extensions
