@@ -2,8 +2,7 @@
 
 ## Install extension locally
 
-
-Open <a href="chrome://extensions/">Extensions</a>
+Open chrome://extensions/
 
 ### Step 1
 Click on Extensions
