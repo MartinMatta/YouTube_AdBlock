@@ -2,6 +2,9 @@
 
 ## Install extension locally
 
+### Download
+https://github.com/MartinMatta/YouTube_AdBlock/archive/refs/heads/main.zip
+
 Open chrome://extensions/
 
 ### Step 1
