@@ -2,7 +2,7 @@
 
 ## Install extension locally
 
-### Download
+### Download and unzip
 https://github.com/MartinMatta/YouTube_AdBlock/archive/refs/heads/main.zip
 
 Open chrome://extensions/
